@@ -1,0 +1,20 @@
+{
+  "name": "mucha-y-chai-pruebas-2.0",
+  "version": "1.0.0",
+  "description": "test wiht mocha ans chai",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "javascript"
+  ],
+  "author": "juan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
